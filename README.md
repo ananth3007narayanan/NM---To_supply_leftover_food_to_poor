@@ -68,8 +68,6 @@ It connects donors, volunteers, and NGOs to distribute food quickly and reduce w
 This project shows how cloud technology can solve real social problems.
 
 
-Demo Video : https://drive.google.com/file/d/1P8B2K0nNVHnhQgeWIs13XJnWrKBWjEOZ/view?usp=sharing
-
 
 🌱 Future Improvements
 Add Google Maps for live tracking
